@@ -1,0 +1,28 @@
+
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+.cart {
+  position: relative;
+    width: 20px;
+    height: 20px;
+    padding: 11px;
+    background-color: #5b7bff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px;
+    font-size: 14px;
+    font-weight: 500;
+    color: #fff;
+}
+.header-section {
+  border-bottom: 1px solid #0000001a;
+  margin-bottom: 50px;
+}
+
